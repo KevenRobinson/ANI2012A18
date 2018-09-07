@@ -7,6 +7,6 @@ Ce cours de premier cycle est offert par l'École de design aux étudiants du BA
 
 Exemples d'introduction à la programmation.
 
-## Module #1 : Primitive
+## Module 1 : Primitive
 
 Introduction à la programmation avec la technologie *Processing*. Déclaration et initialisation de variables, types de variable primitifs (*boolean*, *char*, *int*, *float*, *double*), dessiner des primitives vectorielles simples, importer et afficher une image, interactivité au clavier et à la souris, boucle de rendu, animation temps réel minimaliste.
