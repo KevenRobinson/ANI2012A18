@@ -46,14 +46,14 @@ int iResult;
 float fResult;
 double dResult;
 
-// si décommenté, les trois instructions suivantes causeraient cette erreur avec Processing : 
+// si elles n'étaient pas en commentaire, les trois instructions suivantes causeraient cette erreur avec Processing :
 // 'The local variable ___ may not have been initialized'
-// il faut donc en principe soit initialiser les variables lors de la déclaration, 
-// ou dans une instruction subséquente, comme dans ce cas-ci (ex: ligne 60 pour iResult)
+// il faut donc en principe soit initialiser les variables lors de la déclaration,
+// ou sinon le faire dans une instruction subséquente, comme dans ce cas-ci (ex: ligne 60 pour iResult)
 
-// println("valeur par défaut d'un int = " + iResult);
-// println("valeur par défaut d'un float = " + fResult);
-// println("valeur par défaut d'un double = " + dResult);
+// println(iResult);
+// println(fResult);
+// println(dResult);
 
 // 5. opérateur d'addition (+) entre deux variables numériques entières
 // (int) + (int) = (int)
@@ -126,10 +126,15 @@ println("a + (b * d) = " + fResult);
 final float PHI = 1.618;
 println("PHI = "+ PHI);
 
-// l'instruction suivante causerait une erreur si décommenté car une variable 'final' ne peut plus être modifiée
+// si elle n'était pas en commentaire, l'instruction suivante causerait une erreur, car une variable 'final' ne peut plus être modifiée
 // PHI = 0.0f;
 
 // 20. constantes numériques prédéfinies (valeur de du nombre pi, une constante trigonométrique)
-final double valueOfPi1 = PI;
-final double valueOfPi2 = HALF_PI;
-println("PI = "+ valueOfPi1 + " HALF_PI = " + valueOfPi2);
+final double valueOfPi = PI;
+final double valueOfHalfPi = HALF_PI;
+println("PI = "+ valueOfPi);
+println("HALF_PI = " + valueOfHalfPi);
+
+// si elles n'étaient pas en commentaire, les deux instructions suivantes causeraient une erreur, car PI et HALF_PI sont des constantes prédéfinies
+// PI = 0.0f;
+// HALF_PI = 0.0f;
