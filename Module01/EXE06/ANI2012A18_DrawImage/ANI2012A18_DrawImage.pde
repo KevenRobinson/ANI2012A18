@@ -1,9 +1,6 @@
 // ANI2012A18_DrawImage.pde
 // Exemple d'importation et d'affichage d'une image cadrée sur la fenêtre.
-// Le fichier image doit se trouver dans un répertoire appelé 'data' situé au même endroit que le fichier source (le principal fichier .pde)
-// Les données de l'image seront importées dans une instance de PImage, une classe de Processing pour la gestion d'images.
-// Une classe est une spécification des propriétés (variables) et des méthodes (fonctions) qui caractérisent un type de donnée.
-// Une classe permet donc de créer des instances indépendantes d'objets d'un certain type (on y reviendra plus en détail dans le module 3).
+// Le fichier image doit se trouver dans un répertoire appelé 'data' situé au même endroit que le fichier source
 
 // déclaration d'une variable de type PImage pour référencer l'image
 PImage img;
