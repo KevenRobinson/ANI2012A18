@@ -1,6 +1,6 @@
 // ANI2012A18_DrawText.pde
 // Exemple d'affichage de texte avec une police de caractères.
-// La police de caractères doit d'abord être encodée avant d'être chargée par un programme.
+// La police de caractères doit d'abord être encodée avant d'être chargée en mémoire par un programme.
 // (dans l'éditeur de Processing > menu Tools > Create Font...)
 
 // variables primitives
@@ -31,7 +31,7 @@ void draw()
   background(31);
 
   // couleur du texte
-  fill(127);
+  fill(223);
 
   // alignement du texte
   textAlign(CENTER, CENTER);
