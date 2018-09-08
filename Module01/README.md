@@ -52,6 +52,20 @@ Dans cet exemple, une image est générée à partir de quelques appels de diff�
 
 Un programme peut rendre une animation en temps réel s'il possède au moins une fonction d'initialisation et une fonction de mise à jour de l'affichage qui est appelée périodiquement.
 
+Une animation peut être considérée comme étant en temps réel lorsque le temps écoulé entre chaque image (*frame*) est suffisamment rapide pour que l'oeil humain ne voie presque plus que ce n'est qu'une séquence d'images.
+
+Au minimum, il faut au moins 12-15 images par secondes pour qu'une animation commence à sembler être en temps réel.
+
+Au cinéma, on a généralement du 24 ou 48 images secondes, cependant ce n'est pas vraiment considéré comme de l'animation temps réel puisque les images sont prédéfinies et rendues d'avance.
+
+Dans les véritables animations temps réel interactives, par exemple les jeux vidéo, la cadence de rafraichissement de l'animation est généralement au moins de 30 et de préférence à 60 images par secondes.
+
+Dans cet exemple, nous avons un programme minimaliste avec une fonction d'initialisation et une fonction de mise à jour qui contrôle la boucle de rendu.
+
+Le programme incrémente une variable à chaque itération de cette fonction et affiche sa valeur au centre de la fenêtre d'affichage.
+
+Par défaut, le programme s’exécute à 60 images par seconde, mais la cadence de rafraichissement peut être modifiée selon la valeur du paramètre de la fonction **frameRate**.
+
 ### Exemple 1.6
 
 Un programme peut importer une image en mémoire à partir d'un fichier externe pour ensuite la dessiner dans la fenêtre d'affichage.
