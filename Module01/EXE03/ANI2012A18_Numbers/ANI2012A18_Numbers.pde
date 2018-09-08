@@ -123,10 +123,13 @@ fResult = a + (b * d);
 println("a + (b * d) = " + fResult);
 
 // 19. constante numérique (les constantes sont parfois écrites en majuscule, par convention)
-float PHI = 1.618;
+final float PHI = 1.618;
 println("PHI = "+ PHI);
 
+// l'instruction suivante causerait une erreur si décommenté car une variable 'final' ne peut plus être modifiée
+// PHI = 0.0f;
+
 // 20. constantes numériques prédéfinies (valeur de du nombre pi, une constante trigonométrique)
-double valueOfPi1 = PI;
-double valueOfPi2 = HALF_PI;
-println("PI = "+ valueOfPi1 + " HALF_PI = "+ valueOfPi2);
+final double valueOfPi1 = PI;
+final double valueOfPi2 = HALF_PI;
+println("PI = "+ valueOfPi1 + " HALF_PI = " + valueOfPi2);
