@@ -82,7 +82,9 @@ Une classe est une spécification des propriétés (variables) et des méthodes 
 
 Un programme peut importer une police de caractères présente sur l'ordinateur où il est exécuté pour ensuite l'utiliser afin d'afficher du texte à l'écran.
 
-Afin de garantir que la police de caractère s'affiche correctement sur un ordinateur où elle n'est pas présente, un sous-ensemble de ses caractères peut être encodé dans une texture conservée dans les ressources du programme.
+Afin de garantir que la police de caractères s'affiche correctement sur un ordinateur où elle n'est pas présente, un sous-ensemble de ses caractères peut être encodé dans un fichier conservé dans les ressources du programme (fichier *.vlw* avec *Processing*).
+
+Dans cet exemple, la police de caractères *HelveticaNeue* est chargée en mémoire dans une instance de la classe **PFont** et elle est ensuite utilisée pour afficher le nom de la police de caractères au centre de la fenêtre d'affichage.
 
 ### Exemple 1.8
 
