@@ -28,13 +28,13 @@ Dans cet exemple, différentes variables primitives et complexes sont déclarée
 
 ### Exemple 1.3
 
-Un programme peut manipuler des valeurs numériques de différents types (*int*, *float*, *double*) avec des opérateurs mathématiques tels que l'addition (*+*), la soustraction (*-*) la multiplication (***) et la division (*/* pour la partie entière et *%* pour le reste de la division).
+Un programme peut manipuler des valeurs numériques de différents types (*int*, *float*, *double*) avec des opérateurs mathématiques tels que l'addition (**+**), la soustraction (**-**) la multiplication (**\***) et la division (**/** pour la partie entière et **%** pour le reste de la division).
 
 Dans cet exemple, différentes variables numériques sont déclarées et initialisées avec des valeurs entières (*int*), réelles à simple précision et réelles (*float*) à double précision (*double*).
 
 Ensuite, différentes opérations mathématiques sont effectuées à partir de ces variables et le résultat est affiché dans la console.
 
-À travers 20 exemples, l'objectif est de démontré le fonctionnement des opérateurs de calcul de base (*+*, *-*, *\**, */*, *%*) et de comprendre le comportement de ces opérations en fonction du type des variables numériques et de la préséance des opérateurs (d'abord le contenu entre parenthèses, puis les multiplications et les divisions, ensuite les additions et les soustractions).
+À travers 20 exemples, l'objectif est de démontré le fonctionnement des opérateurs de calcul de base (**+**, **-**, **\***, **/**, **%**) et de comprendre le comportement de ces opérations en fonction du type des variables numériques et de la préséance des opérateurs (d'abord le contenu entre parenthèses, puis les multiplications et les divisions, ensuite les additions et les soustractions).
 
 Cet exemple démontre aussi comment créer une constante avec le mot clé *final*, c'est-à-dire une variable immuable, dont la valeur ne peut plus être changée après initialisation.
 
