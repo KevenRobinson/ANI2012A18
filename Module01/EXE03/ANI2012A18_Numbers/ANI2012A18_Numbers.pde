@@ -46,9 +46,14 @@ int iResult;
 float fResult;
 double dResult;
 
-println("valeur par défaut d'un int = " + iResult);
-println("valeur par défaut d'un float = " + fResult);
-println("valeur par défaut d'un double = " + dResult);
+// si décommenté, les trois instructions suivantes causeraient cette erreur avec Processing : 
+// 'The local variable ___ may not have been initialized'
+// il faut donc en principe soit initialiser les variables lors de la déclaration, 
+// ou dans une instruction subséquente, comme dans ce cas-ci (ex: ligne 60 pour iResult)
+
+// println("valeur par défaut d'un int = " + iResult);
+// println("valeur par défaut d'un float = " + fResult);
+// println("valeur par défaut d'un double = " + dResult);
 
 // 5. opérateur d'addition (+) entre deux variables numériques entières
 // (int) + (int) = (int)
