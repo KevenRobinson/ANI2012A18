@@ -31,5 +31,5 @@ println("value of variable 'integer'     : " + integer);
 println("value of variable 'realnumber'  : " + realnumber);
 println("value of variable 'hugenumber'  : " + hugenumber);
 println("value of variable 'textmessage' : " + textmessage);
-println("value of variable 'vector2D'      : " + vector2D);
-println("value of variable 'vector3D'      : " + vector3D);
+println("value of variable 'vector2D'    : " + vector2D);
+println("value of variable 'vector3D'    : " + vector3D);
