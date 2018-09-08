@@ -34,7 +34,7 @@ Dans cet exemple, différentes variables numériques sont déclarées et initial
 
 Ensuite, différentes opérations mathématiques sont effectuées à partir de ces variables et le résultat est affiché dans la console.
 
-À travers 20 exemples, l'objectif est de démontré le fonctionnement des opérateurs de calcul de base (*+*, *-*, ***, */*, *%*) et de comprendre le comportement de ces opérations en fonction du type des variables numériques et de la préséance des opérateurs (d'abord le contenu entre parenthèses, puis les multiplications et les divisions, ensuite les additions et les soustractions).
+À travers 20 exemples, l'objectif est de démontré le fonctionnement des opérateurs de calcul de base (*+*, *-*, *\**, */*, *%*) et de comprendre le comportement de ces opérations en fonction du type des variables numériques et de la préséance des opérateurs (d'abord le contenu entre parenthèses, puis les multiplications et les divisions, ensuite les additions et les soustractions).
 
 Cet exemple démontre aussi comment créer une constante avec le mot clé *final*, c'est-à-dire une variable immuable, dont la valeur ne peut plus être changée après initialisation.
 
