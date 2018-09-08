@@ -10,12 +10,18 @@ int frameCounter;
 // fonction d'initialisation
 void setup()
 {
+  // résolution de la fenêtre d'affichage
+  size(512, 512);
+  
   // fréquence de mise à jour de l'affichage
   frameRate(60);
 
   // initialisation de nombre de frames
   frameCounter = 0;
 
+  // taille du texte
+  textSize(64);
+  
   // alignement du texte (horizontal et vertical)
   textAlign(CENTER, CENTER);
 }
