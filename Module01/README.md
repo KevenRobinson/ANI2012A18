@@ -6,14 +6,15 @@
 
 Un programme peut afficher des données dans une console sous forme textuelle.
 
-La console est un outil pour aider les programmeurs à observer ce qui se passe lors de l'exécution d'un programme grâce à des traces textuelles.
+La console est un outil pour aider les programmeurs à observer ce qui se passe lors de l'exécution d'un programme grâce à des traces sous forme de texte.
 
-Ces traces sont laissées par des fonctions comme *print* et *println* qui sont placées à des endroits stratégiques du flot d'exécution du programme.
+Ces traces sont laissées par des fonctions comme *print* et *println* qui sont placées à des endroits stratégiques du flot d'exécution d'un programme.
 
 La console est aussi un endroit où de l'information peut être affichée en cas d'erreurs ou de plantage d'un programme lors de son exécution.
 
 Le texte à afficher dans la console peut avoir pour source une combinaison de chaînes de caractères sous forme littérale et de valeurs de variables converties en chaîne de caractères.
 
+Dans cet exemple, le message *hello world* est affiché dans la console de l'éditeur de *Processing* de 4 manières différentes.
 ### Exemple 1.2
 
 Un programme symbolise les données avec lesquelles il travaille sous forme de variables.
