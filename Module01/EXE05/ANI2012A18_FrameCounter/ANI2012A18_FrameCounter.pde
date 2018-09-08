@@ -10,8 +10,8 @@ int frameCounter;
 // fonction d'initialisation
 void setup()
 {
-  // fréquence de mise à jour de l'affichage (1 fois par seconde)
-  frameRate(1);
+  // fréquence de mise à jour de l'affichage
+  frameRate(60);
 
   // initialisation de nombre de frames
   frameCounter = 0;
@@ -24,7 +24,10 @@ void setup()
 void draw()
 {
   // effacer le contenu de la fenêtre d'affichage
-  background(0);
+  background(frameCounter % 255);
+  // le modulo (%) 255 permet d'utiliser le reste de la division par 255 pour obtenir une valeur numérique entre 0 et 255 pour chaque valeur de 'frameCounter'
+  // au-delà de 255, le partie entière de la division est ignorée par l'opérateur de modulo la partie restante recommence à 0
+  // cette valeur est ensuite utilisée pour animer la couleur de l'arrière-plan avec un niveau de gris différent pour chaque frame 
 
   // incrémenter le nombre de frames
   frameCounter = frameCounter + 1;
