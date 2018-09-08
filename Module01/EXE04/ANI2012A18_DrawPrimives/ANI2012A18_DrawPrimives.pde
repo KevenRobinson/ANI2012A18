@@ -1,7 +1,7 @@
 // ANI2012A18_DrawPrimives.pde
 // Générer un dessin à partir de primitives vectorielles (ligne, rectangle et ellipse).
 
-// configurer la dimension de la fenêtre d'affichage (nombre de pixels en largeur et en hauteur)
+// configurer la résolution de la fenêtre d'affichage (nombre de pixels en largeur et en hauteur)
 // la largeur et la hauteur de cette fenêtre seront ensuite accessibles avec les variables 'width' et 'height'
 size(512, 512);
 
