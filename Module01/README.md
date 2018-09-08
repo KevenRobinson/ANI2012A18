@@ -70,6 +70,14 @@ Par défaut, le programme s’exécute à 60 images par seconde, mais la cadence
 
 Un programme peut importer une image en mémoire à partir d'un fichier externe pour ensuite la dessiner dans la fenêtre d'affichage.
 
+Dans cet exemple, le programme fait l'importation et l'affichage d'une image bien cadrée sur la résolution de la fenêtre d'affichage.
+
+Le fichier image doit se trouver dans un répertoire appelé *data* situé au même endroit que le fichier source (*.pde*).
+
+Les données du fichier image sont importées en mémoire dans une instance de **PImage**, une classe de *Processing* pour la gestion d'images.
+
+Une classe est une spécification des propriétés (variables) et des méthodes (fonctions) qui caractérisent un type de donnée. Une classe permet donc de créer des instances indépendantes d'objets d'un certain type, comme dans ce cas, une image.
+
 ### Exemple 1.7
 
 Un programme peut importer une police de caractères présente sur l'ordinateur où il est exécuté pour ensuite l'utiliser afin d'afficher du texte à l'écran.
