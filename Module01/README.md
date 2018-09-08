@@ -15,13 +15,16 @@ La console est aussi un endroit où de l'information peut être affichée en cas
 Le texte à afficher dans la console peut avoir pour source une combinaison de chaînes de caractères sous forme littérale et de valeurs de variables converties en chaîne de caractères.
 
 Dans cet exemple, le message *hello world* est affiché dans la console de l'éditeur de *Processing* de 4 manières différentes.
+
 ### Exemple 1.2
 
 Un programme symbolise les données avec lesquelles il travaille sous forme de variables.
 
-Une variable fait l'association entre un identifiant, un type et une valeur.
+Une variable fait l'association entre un identifiant et une valeur d'un certain type.
 
 Un type de données peut être primitif, par exemple une valeur numérique, ou encore être un type complexe, c'est-à-dire un type défini par une classe.
+
+Dans cet exemple, différentes variables primitives et complexes sont déclarées et initialisées, puis leurs valeurs sont affichées dans la console.
 
 ### Exemple 1.3
 
