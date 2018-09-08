@@ -44,7 +44,9 @@ Un programme peut dessiner des primitives vectorielles telles que des lignes, de
 
 Le dessin est effectué par des fonctions qui reçoivent en paramètre des données telles que des positions et des dimensions.
 
-Chaque appel de ces fonctions va dessiner une nouvelle instance de primitive vectorielle.
+Chaque appel de ces fonctions va dessiner une nouvelle instance de la primitive vectorielle.
+
+Dans cet exemple, une image est générée à partir de quelques appels de différentes fonctions de dessin de primitives vectorielles et le contenu de la fenêtre d'affichage est ensuite sauvegardé dans un fichier image de type *.png*.
 
 ### Exemple 1.5
 
