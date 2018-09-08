@@ -8,7 +8,7 @@ Un programme peut afficher des données dans une console sous forme textuelle.
 
 La console est un outil pour aider les programmeurs à observer ce qui se passe lors de l'exécution d'un programme grâce à des traces sous forme de texte.
 
-Ces traces sont laissées par des fonctions comme *print* et *println* qui sont placées à des endroits stratégiques du flot d'exécution d'un programme.
+Ces traces sont laissées par des fonctions comme **print** et **println** qui sont placées à des endroits stratégiques du flot d'exécution d'un programme.
 
 La console est aussi un endroit où de l'information peut être affichée en cas d'erreurs ou de plantage d'un programme lors de son exécution.
 
