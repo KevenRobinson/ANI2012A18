@@ -4,7 +4,7 @@
 
 ### Exemple 0.1
 
-Voici un exemple de programme avec une seule instruction.
+Voici un premier exemple de programme avec une seule instruction.
 
 Le programme trace une ligne entre le coin supérieur gauche et le coin inférieur droit de la fenêtre d'affichage.
 
