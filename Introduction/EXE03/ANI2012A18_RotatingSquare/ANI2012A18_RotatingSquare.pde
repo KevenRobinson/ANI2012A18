@@ -35,10 +35,10 @@ void setup()
   noStroke();
 
   // calculer la position en X du centre de la fenêtre ('width' est la largeur en pixels)
-  centerX = width / 2;
+  centerX = width / 2.0f;
 
   // calculer la position en Y du centre de la fenêtre ('height' est la hauteur en pixels)
-  centerY = height / 2;
+  centerY = height / 2.0f;
 
   // angle initial
   angleCurrent = 0;
