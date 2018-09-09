@@ -106,4 +106,10 @@ Dans cet exemple, les événements de la souris sont utilisés pour afficher int
 
 ### Exemple 1.10
 
-Un programme peut animer la position d'un élément visuel par l'addition à chaque mise à jour de l'affichage d'une vitesse positive ou négative sur les variables contenant les valeurs de la position courantes sur chacun des axes de l'espace de la scène.
+Un programme peut animer le mouvement d'un élément visuel en fonction d'événements interactifs.
+
+Dans cet exemple, les événements du clavier et de la souris sont utilisés pour déplacer la position d'une image dans la fenêtre d'affichage.
+
+Le clavier permet de déplacer l'image dans en direction des flèches, avec un vélocité constante à chaque mise à jour.
+
+La souris permet de déplacer l'image à la position du curseur lorsqu'un de ses boutons est enfoncés.
