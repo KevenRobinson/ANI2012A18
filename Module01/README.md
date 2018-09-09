@@ -24,6 +24,10 @@ Une variable fait l'association entre un identifiant et une valeur d'un certain 
 
 Un type de données peut être primitif, par exemple une valeur numérique, ou encore être un type complexe, c'est-à-dire un type défini par une classe.
 
+Des exemples de types primitifs sont les variables booléennes (**boolean**), les caractères (**char**), les nombres entiers (**int**), les nombres réels à simple précision (**float**) et les nombres réels à double précision (**double**).
+
+Des exemples de types complexe sont les classes offertes par *Processing*, par exemple **PVector**, **PImage** et **PFont**.
+
 Dans cet exemple, différentes variables primitives et complexes sont déclarées et initialisées, puis leurs valeurs sont affichées dans la console.
 
 ### Exemple 1.3
