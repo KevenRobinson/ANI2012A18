@@ -20,7 +20,7 @@ Ce deuxième exemple de programme à cinq instructions.
 
 Il permet d'afficher le sigle du cours au centre de la fenêtre d'affichage.
 
-La première instruction configure la largeur et hauteur de la fenêtre d'affichage.
+La première instruction configure la largeur et la hauteur de la fenêtre d'affichage.
 
 La seconde instruction configure la couleur du texte.
 
