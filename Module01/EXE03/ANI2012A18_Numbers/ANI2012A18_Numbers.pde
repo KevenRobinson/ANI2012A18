@@ -49,7 +49,7 @@ double dResult;
 // si elles n'étaient pas en commentaire, les trois instructions suivantes causeraient cette erreur avec Processing :
 // 'The local variable ___ may not have been initialized'
 // il faut donc en principe soit initialiser les variables lors de la déclaration,
-// ou sinon le faire dans une instruction subséquente, comme dans ce cas-ci (ex: ligne 60 pour iResult)
+// ou sinon le faire dans une instruction subséquente, comme dans ce cas-ci (ex. ligne 60 pour iResult)
 
 // println(iResult);
 // println(fResult);
