@@ -16,6 +16,19 @@ Avec le langage de programmation **Java**, qui est celui utilisé pas *Processin
 
 ### Exemple 0.2
 
+Ce deuxième exemple de programme à cinq instructions.
+
+Il permet d'afficher le sigle du cours au centre de la fenêtre d'affichage.
+
+La première instruction configure la largeur et hauteur de la fenêtre d'affichage.
+
+La seconde instruction configure la couleur du texte.
+
+La troisième instruction configure l'alignement du texte.
+
+La quatrième instruction configure la taille du texte.
+
+La cinquième et dernière instruction affiche une chaîne de caractère à une position X et Y située au centre de la fenêtre d'affichage.
 
 ### Exemple 0.3
 
