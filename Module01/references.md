@@ -48,11 +48,11 @@ http://processing.org/reference/char.html
 Chaînes de caractère (**string**)  
 http://www.processing.org/reference/String.html
 
-Classe **PVector**  
+Classe pour les vecteurs 2D et 3D **PVector**  
 https://processing.org/reference/PVector.html
 
-Classe **PImage**  
+Classe pour les images **PImage**  
 https://processing.org/reference/PImage.html
 
-Classe **PFont**  
+Classe pour les polices de caractères **PFont**  
 https://processing.org/reference/PFont.html
