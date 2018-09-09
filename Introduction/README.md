@@ -8,9 +8,9 @@ Voici un premier exemple de programme avec une seule instruction.
 
 Le programme trace une ligne entre le coin supérieur gauche et le coin inférieur droit de la fenêtre d'affichage.
 
-Différents commentaires dans le code source du programme expliquent ce que cette instruction fait en détails.
+Différents commentaires dans le code source du programme expliquent ce que cette instruction fait en détail.
 
-Un commentaire est du texte qui fait partie d'un programme mais qui est ignoré lors de la compilation et l'exécution du programme. 
+Un commentaire est du texte qui fait partie d'un programme, mais qui est ignoré lors de la compilation et l'exécution du programme.
 
 Avec le langage de programmation **Java**, qui est celui utilisé pas *Processing*, un commentaire est soit une ligne qui commence par les caractères '**//**' ou sinon par un bloc de texte sur plusieurs lignes qui est délimité par les caractères '**/\***' au début et '**\*/**' à la fin.
 
