@@ -32,4 +32,10 @@ La cinquième et dernière instruction affiche une chaîne de caractère à une 
 
 ### Exemple 0.3
 
+Dans ce troisième exemple, le programme anime un carré qui tourne autour du centre de la fenêtre d'affichage.
 
+La cadence de rafraichissement de l'animation est de 60 images par secondes.
+
+Un effet de flou peut être activé lorsqu'une touche du clavier est enfoncée.
+
+L'effet de flou est généré en dessinant un carré noir semi-transparent par-dessus l'ensemble de la fenêtre d'affichage à chaque mise à jour de l'animation.
