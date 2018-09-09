@@ -28,7 +28,7 @@ La troisième instruction configure l'alignement du texte.
 
 La quatrième instruction configure la taille du texte.
 
-La cinquième et dernière instruction affiche une chaîne de caractère à une position X et Y située au centre de la fenêtre d'affichage.
+La cinquième et dernière instruction affiche une chaîne de caractère à une position située au centre de la fenêtre d'affichage.
 
 ### Exemple 0.3
 
