@@ -3,8 +3,8 @@
 
 // section de déclaration et d'initialisation de variables
 
-// 'int' est pour une variable numérique de type nombre entier (ex: 0, 1, 2, 3)
-// 'float' est pour une variable numérique de type nombre réel (ex: 0.0, 0.1, 0.2)
+// 'int' est pour une variable numérique de type nombre entier (ex. 0, 1, 2, 3)
+// 'float' est pour une variable numérique de type nombre réel (ex. 0.0, 0.1, 0.2)
 
 // variable initialisée avec une valeur (le nombre 127)
 int squareSize = 127;
