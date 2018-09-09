@@ -30,29 +30,29 @@ http://fr.wikipedia.org/wiki/Nombre_réel
 Variable  
 http://processing.org/examples/variables.html
 
-Valeur booléennes (`boolean`)  
+Valeur booléennes (**boolean**)  
 http://processing.org/reference/boolean.html
 
-Nombres entiers (`int`)  
+Nombres entiers (**int**)  
 http://processing.org/reference/int.html
 
-Nombres à virgules flottantes (`float`)  
+Nombres à virgules flottantes (**float**)  
 http://processing.org/reference/float.html
 
-Nombre entiers (`int`) versus nombres réels (`float`)  
+Nombre entiers (**int**) versus nombres réels (**float**)  
 http://processing.org/examples/integersfloats.html
 
-Caractère (`char`)  
+Caractère (**char**)  
 http://processing.org/reference/char.html
 
-Chaînes de caractère (`string`)  
+Chaînes de caractère (**string**)  
 http://www.processing.org/reference/String.html
 
-Classe `PVector`  
+Classe **PVector**  
 https://processing.org/reference/PVector.html
 
-CLasse `PImage`  
+Classe **PImage**  
 https://processing.org/reference/PImage.html
 
-Classe `PFont`  
+Classe **PFont**  
 https://processing.org/reference/PFont.html
