@@ -94,6 +94,10 @@ Dans cet exemple, la police de caractères *HelveticaNeue* est chargée en mémo
 
 Un programme peut utiliser les événements du clavier comme source d'interactivité.
 
+Dans cet exemple, les événements du clavier sont utilisés pour afficher interactivement du texte dans la fenêtre d'affichage selon que les touches observées sont enfoncées ou relâchées.
+
+Les touches observées sont les flèches du clavier (haut, bas, gauche, droite), les touches WASD en minuscule et en majuscule ainsi que la barre d'espacement.
+
 ### Exemple 1.9
 
 Un programme peut utiliser les événements de la souris comme source d'interactivité.
