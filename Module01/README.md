@@ -102,6 +102,8 @@ Les touches observées sont les flèches du clavier (haut, bas, gauche, droite),
 
 Un programme peut utiliser les événements de la souris comme source d'interactivité.
 
+Dans cet exemple, les événements de la souris sont utilisés pour afficher interactivement du texte dans la fenêtre d'affichage en fonction de la position et du mouvement du curseur et selon l'état enfoncé ou relâché de ses boutons.
+
 ### Exemple 1.10
 
 Un programme peut animer la position d'un élément visuel par l'addition à chaque mise à jour de l'affichage d'une vitesse positive ou négative sur les variables contenant les valeurs de la position courantes sur chacun des axes de l'espace de la scène.
