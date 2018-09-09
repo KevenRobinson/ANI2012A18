@@ -1,7 +1,7 @@
 // ANI2012A18_DrawText.pde
 // Affiche le sigle du cours au centre de la fenêtre d'affichage.
 
-// fonction qui configure la largeur et hauteur de la fenêtre d'affichage
+// fonction qui configure la largeur et la hauteur de la fenêtre d'affichage
 size(256, 256);
 
 // fonction qui configure la couleur du texte
