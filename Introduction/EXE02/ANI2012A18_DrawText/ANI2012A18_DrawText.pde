@@ -5,7 +5,7 @@
 size(256, 256);
 
 // fonction qui configure la couleur du texte
-fill(255, 63, 127);
+fill(255, 127, 63);
 
 // fonction qui configure l'alignement du texte
 textAlign(CENTER);
@@ -14,4 +14,4 @@ textAlign(CENTER);
 textSize(32);
 
 // fonction pour afficher du texte (premier paramètre) à une position X (second paramètre) et Y (troisième paramètre)
-text("ANI-2012", width/2, height/2);
+text("ANI-2012", width / 2.0f, height / 2.0f);
