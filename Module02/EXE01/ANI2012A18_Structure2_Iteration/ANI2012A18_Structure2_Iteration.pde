@@ -1,6 +1,6 @@
-// ANI2012A17_Structure2_Iteration.pde
+// ANI2012A18_Structure2_Iteration.pde
 // Exemples de structures itératives.
-// Code source du diaporama du module #2 (non exécutable).
+// Code source du diaporama du module 2 (non exécutable).
 
 // 1. exemple de structure itérative (boucle for)
 for (from; to; increment)
