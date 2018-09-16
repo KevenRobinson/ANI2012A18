@@ -12,19 +12,19 @@ http://fr.wikipedia.org/wiki/Hasard
 
 ## Processing
 
-Branchement logique (if)  
+Branchement logique (**if**)  
 http://processing.org/reference/if.html
 
-Branchement logique (else)  
+Branchement logique (**else**)  
 http://processing.org/reference/else.html
 
-Branchement logique (switch)  
+Branchement logique (**switch**)  
 http://processing.org/reference/switch.html
 
-Structure itérative (for)  
+Structure itérative (**for**)  
 http://processing.org/reference/for.html
 
-Structure itérative (while)  
+Structure itérative (**while**)  
 http://processing.org/reference/while.html
 
 Fonction  
@@ -39,56 +39,56 @@ http://processing.org/reference/return.html
 Exemple d'utilisation de valeur aléatoire  
 http://processing.org/examples/random.html
 
-Fonction random  
+Fonction **random**  
 http://processing.org/reference/random_.html
 
-Fonction randomSeed  
+Fonction **randomSeed**  
 http://processing.org/reference/randomSeed_.html
 
-Fonction noiseSeed  
+Fonction **noiseSeed**  
 http://processing.org/reference/noiseSeed_.html
 
-Fonction noise  
+Fonction **noise**  
 http://processing.org/reference/noise_.html
 
-Fonction noiseDetail  
+Fonction **noiseDetail**  
 http://processing.org/reference/noiseDetail_.html
 
-Dessiner une couleur / image de fond  
+Dessiner une couleur / image de fond (**background**)  
 http://processing.org/reference/background_.html
 
-Taille de la ligne contour  
+Taille de la ligne contour (**strokeWeight**)  
 http://processing.org/reference/strokeWeight_.html
 
-Couleur de la ligne contour  
+Couleur de la ligne contour (**stroke**)  
 http://processing.org/reference/stroke_.html
 
-Couleur de la zone de remplissage  
+Couleur de la zone de remplissage (**fill**)  
 http://processing.org/reference/fill_.html
 
-Dessiner un point  
+Dessiner un point (**point**)  
 http://www.processing.org/reference/point_.html
 
-Dessiner une ligne  
+Dessiner une ligne (**line**)  
 http://processing.org/reference/line_.html
 
-Dessiner une ellipse  
+Dessiner une ellipse (**ellipse**)  
 http://processing.org/reference/ellipse_.html
 
-Dessiner un rectangle  
+Dessiner un rectangle (**rect**)  
 http://processing.org/reference/rect_.html
 
-Dessiner un quadrilatère  
+Dessiner un quadrilatère (**quad**)  
 http://processing.org/reference/quad_.html
 
-Dessiner un polygone  
+Dessiner un polygone (**beginShape** / **endShape**)  
 http://processing.org/reference/beginShape_.html
 
-Définir un sommet d'une forme vectorielle  
+Définir un sommet d'une forme vectorielle (**vertex**)  
 http://processing.org/reference/vertex_.html
 
-Dessiner une courbe de Catmull-Rom  
+Dessiner une courbe de Catmull-Rom (**curveVertex**)  
 http://processing.org/reference/curveVertex_.html
 
-Dessiner une courbe de Bézier  
+Dessiner une courbe de Bézier (**bezier**)  
 http://processing.org/reference/bezier_.html
