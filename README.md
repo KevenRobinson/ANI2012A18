@@ -1,7 +1,7 @@
 # ANI2012A18
-Exemples en lien avec le cours 'ANI-2012 Programmation en animation' de l'Université Laval, édition automne 2018.
+Exemples en lien avec le cours [ANI-2012 Programmation en animation](https://www.distance.ulaval.ca/etudes/cours/programmation-en-animation) de l'Université Laval, édition automne 2018.
 
-Ce cours de premier cycle est offert par l'École de design aux étudiants du BASA/CASA (baccalauréat & certificat en art et science de l'animation), ainsi qu'à n'importe quel étudiant de tout autre programme d'étude qui a de l'intérêt pour la programmation et l'animation.
+Ce cours de premier cycle est offert par l'École de design aux étudiants du [BASA/CASA (baccalauréat & certificat en art et science de l'animation)](https://www.design.ulaval.ca/programmes/baccalaureat-art-science-animation.html) , ainsi qu'à n'importe quel étudiant de tout autre programme d'étude qui a de l'intérêt pour la programmation et l'animation.
 
 Le but de ce cours est de développer les connaissances et les compétences de l'étudiant en programmation informatique appliquée au contexte de l'animation par l'étude théorique et l'expérimentation pratique.
 
