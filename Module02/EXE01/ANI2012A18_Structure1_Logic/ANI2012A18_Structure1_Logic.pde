@@ -1,6 +1,6 @@
 // ANI2012A18_Structure1_Logic.pde
 // Exemples de structures logiques.
-// Code source du diaporama du module #2 (non exécutable).
+// Code source du diaporama du module 2 (non exécutable).
 
 // 1. exemple de structure logique (if + else)
 if (condition)
