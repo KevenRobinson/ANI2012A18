@@ -1,5 +1,6 @@
 # ANI2012A18
-Exemples en lien avec le cours [ANI-2012 Programmation en animation](https://www.distance.ulaval.ca/etudes/cours/programmation-en-animation) de l'Université Laval, édition automne 2018.
+
+Ce dépôt de code contient les exemples en lien avec le cours [ANI-2012 Programmation en animation](https://www.distance.ulaval.ca/etudes/cours/programmation-en-animation) de l'Université Laval, édition automne 2018.
 
 Ce cours de premier cycle est offert par l'École de design aux étudiants du [BASA/CASA (baccalauréat & certificat en art et science de l'animation)](https://www.design.ulaval.ca/programmes/baccalaureat-art-science-animation.html) , ainsi qu'à n'importe quel étudiant de tout autre programme d'étude qui a de l'intérêt pour la programmation et l'animation.
 
