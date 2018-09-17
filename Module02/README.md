@@ -105,3 +105,7 @@ Un programme peut dessiner un polygone dans l'espace de la fenêtre d'affichage 
 ### Exemple 2.9
 
 Un programme peut dessiner une courbe de Bézier dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois points de contrôle pour une courbe de Bézier quadratique ou de quatre points de contrôle pour une courbe de Bézier cubique.
+
+### Exemple 2.10
+
+Dans cet exemple, une animation générative est créée à partir des principales notions théoriques de ce module : structures logiques, structures itératives et primitives vectorielles. 
