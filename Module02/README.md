@@ -108,6 +108,8 @@ Dans ce exemple, le programme dessine une séquence de polygones réguliers avec
 
 Un programme peut dessiner une courbe de Bézier dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois points de contrôle pour une courbe de Bézier quadratique ou de quatre points de contrôle pour une courbe de Bézier cubique.
 
+Dans cet exemple, le programme dessine une courbe de Bézier cubique avec ses quatre points de contrôle et différents repères visuels.
+
 ### Exemple 2.10
 
 Dans cet exemple, une animation générative est créée à partir des principales notions théoriques de ce module : structures logiques, structures itératives et primitives vectorielles. 
