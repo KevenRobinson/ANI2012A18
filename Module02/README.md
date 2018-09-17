@@ -66,6 +66,8 @@ Dans cet exemple, le programme dessine une séquence de points de taille croissa
 
 Un programme peut dessiner des lignes dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de deux sommets. La largeur de la ligne sera en fonction de la taille du trait.
 
+Dans cet exemple, le programme dessine une séquence de lignes de taille croissante.
+
 ### Exemple 2.5
 
 Un programme peut dessiner des triangles dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois sommets.
