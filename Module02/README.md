@@ -83,3 +83,17 @@ Dessine une séquence de rectangles de taille décroissante.
 #### Exemple 2.6.2
 
 Dessine une séquence de quadrilatères dont les quatre sommets ont des positions aléatoires.
+
+### Exemple 2.7
+
+Un programme peut dessiner une ellipse dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y du centre de la primitive, d'une largeur et d'une hauteur.
+
+Un arc d'ellipse peut aussi être dessiné en tenant compte d'un angle de début et de fin de l'arc.
+
+#### Exemple 2.7.1
+
+Dessine une séquence d'ellipses de taille décroissante.
+
+#### Exemple 2.7.2
+
+Dessine une séquence d'arcs d'ellipse avec un angle croissant.
