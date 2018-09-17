@@ -67,3 +67,19 @@ Un programme peut dessiner des lignes dans l'espace de la fenêtre d'affichage a
 ### Exemple 2.5
 
 Un programme peut dessiner des triangles dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois sommets.
+
+### Exemple 2.6
+
+Un programme peut dessiner des rectangles ou des quadrilatères dans l'espace de la fenêtre d'affichage avec des primitives vectorielles qui ont pour attributs les positions sur l'axe X et Y de quatre sommets.
+
+Un quadrilatère peut utiliser n'importe quelle position de l'espace de la fenêtre d'affichage pour ses quatre sommets alors qu'un rectangle est un quadrilatère dont les arêtes opposées sont alignées parallèlement sur les axes de l'espace de la fenêtre d'affichage.
+
+Le rectangle peut donc être représenté sous forme d'une position au coin supérieur gauche ou au centre de la primitive, ainsi que d'une largeur et d'une hauteur qui permet de calculer la position de ses quatre sommets.
+
+#### Exemple 2.6.1
+
+Dessine une séquence de rectangles de taille décroissante.
+
+#### Exemple 2.6.2
+
+Dessine une séquence de quadrilatères dont les quatre sommets ont des positions aléatoires.
