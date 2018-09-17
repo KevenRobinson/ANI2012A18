@@ -60,6 +60,8 @@ Cette technique est utilisée dans plusieurs de mes exemples pour créer un effe
 
 Un programme peut dessiner des points dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs une position sur l'axe X et Y. Le diamètre du point sera en fonction de la taille du trait.
 
+Dans cet exemple, le programme dessine une séquence de points de taille croissante.
+
 ### Exemple 2.4
 
 Un programme peut dessiner des lignes dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de deux sommets. La largeur de la ligne sera en fonction de la taille du trait.
