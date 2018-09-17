@@ -72,6 +72,8 @@ Dans cet exemple, le programme dessine une séquence de lignes de taille croissa
 
 Un programme peut dessiner des triangles dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois sommets.
 
+Dans cet exemple, le programme dessine une séquence de triangles dont les trois sommets ont des positions aléatoires.
+
 ### Exemple 2.6
 
 Un programme peut dessiner des rectangles ou des quadrilatères dans l'espace de la fenêtre d'affichage avec des primitives vectorielles qui ont pour attributs les positions sur l'axe X et Y de quatre sommets.
