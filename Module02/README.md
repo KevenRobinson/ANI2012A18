@@ -102,6 +102,8 @@ Dessine une séquence d'arcs d'ellipse avec un angle croissant.
 
 Un programme peut dessiner un polygone dans l'espace de la fenêtre d'affichage avec une primitive vectorielle ayant pour attributs les positions sur l'axe X et Y de chacun des ses sommets.
 
+Dans ce exemple, le programme dessine une séquence de polygones réguliers avec un nombre de côtés croissant.
+
 ### Exemple 2.9
 
 Un programme peut dessiner une courbe de Bézier dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois points de contrôle pour une courbe de Bézier quadratique ou de quatre points de contrôle pour une courbe de Bézier cubique.
