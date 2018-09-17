@@ -119,3 +119,9 @@ Dans cet exemple, le programme dessine une courbe de Bézier cubique avec ses qu
 ### Exemple 2.10
 
 Dans cet exemple, une animation générative est créée à partir des principales notions théoriques de ce module : structures logiques, structures itératives et primitives vectorielles. 
+
+À un intervalle régulier, des instances de primitives vectorielles sont dessinées avec des attributs aléatoires.
+
+L'effet d'estompement progressif présenté dans l'exemple 2.2.4 est utilisé pour faire disparaitre les formes après un certain temps.
+
+Les touches de 1 à 9 du clavier permettent d'activer ou de désactiver chaque type de primitives vectorielles et la touche 0 permet de toutes les désactiver.
