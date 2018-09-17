@@ -98,11 +98,11 @@ Un arc d'ellipse peut aussi être dessiné en tenant compte d'un angle de début
 
 #### Exemple 2.7.1
 
-Dessine une séquence d'ellipses de taille décroissante.
+Dans cet exemple, le programme dessine une séquence d'ellipses de taille décroissante.
 
 #### Exemple 2.7.2
 
-Dessine une séquence d'arcs d'ellipse avec un angle croissant.
+Dans cet exemple, le programme dessine une séquence d'arcs d'ellipse avec un angle croissant.
 
 ### Exemple 2.8
 
