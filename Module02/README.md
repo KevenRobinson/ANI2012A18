@@ -84,11 +84,11 @@ Le rectangle peut donc être représenté sous forme d'une position au coin sup�
 
 #### Exemple 2.6.1
 
-Dessine une séquence de rectangles de taille décroissante.
+Dans cet exemple, le programme dessine une séquence de rectangles de taille décroissante.
 
 #### Exemple 2.6.2
 
-Dessine une séquence de quadrilatères dont les quatre sommets ont des positions aléatoires.
+Dans cet exemple, le programme dessine une séquence de quadrilatères dont les quatre sommets ont des positions aléatoires.
 
 ### Exemple 2.7
 
