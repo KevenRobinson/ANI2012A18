@@ -63,3 +63,7 @@ Un programme peut dessiner des points dans l'espace de la fenêtre d'affichage a
 ### Exemple 2.4
 
 Un programme peut dessiner des lignes dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de deux sommets. La largeur de la ligne sera en fonction de la taille du trait.
+
+### Exemple 2.5
+
+Un programme peut dessiner des triangles dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs les positions sur l'axe X et Y de trois sommets.
