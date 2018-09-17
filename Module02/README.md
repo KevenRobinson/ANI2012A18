@@ -97,3 +97,7 @@ Dessine une séquence d'ellipses de taille décroissante.
 #### Exemple 2.7.2
 
 Dessine une séquence d'arcs d'ellipse avec un angle croissant.
+
+### Exemple 2.8
+
+Un programme peut dessiner un polygone dans l'espace de la fenêtre d'affichage avec une primitive vectorielle ayant pour attributs les positions sur l'axe X et Y de chacun des ses sommets.
