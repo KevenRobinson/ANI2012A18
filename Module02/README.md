@@ -56,3 +56,7 @@ L’estompement progressif est une animation où tout ce qui est dessiné dans l
 
 Cette technique est utilisée dans plusieurs de mes exemples pour créer un effet de persistance visuelle des éléments rendus dans la fenêtre d'affichage.
 
+### Exemple 2.3
+
+Un programme peut dessiner des points dans l'espace de la fenêtre d'affichage avec une primitive vectorielle qui a pour attributs une position sur l'axe X et Y. Le diamètre du point sera en fonction de la taille du trait.
+
